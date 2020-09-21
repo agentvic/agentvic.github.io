@@ -1,0 +1,22 @@
+.bookme {
+      position: absolute;
+      font-size: 25px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      border-radius: 30px;
+      border: none;
+      color: $dark;
+      cursor: pointer;
+      background: $light-gray;
+      transition: all .35s;
+      padding: 10px 10px;
+
+      &:hover {
+        color: $white;
+        background: $dark;
+	}
+}
+
+.button-place{
+	text-align: center;
+}
