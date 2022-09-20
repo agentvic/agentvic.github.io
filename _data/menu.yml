@@ -8,6 +8,3 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-  - title: rss
-    url: feed.xml
